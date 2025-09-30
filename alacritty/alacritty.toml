@@ -1,0 +1,23 @@
+[window]
+dimensions = { columns = 100, lines = 30 }
+decorations = "Full"
+startup_mode = "Windowed"
+dynamic_padding = false
+opacity = 0.9
+
+[window.padding]
+x = 6
+y = 6
+
+[font]
+size = 14.0
+
+[colors.primary]
+background = "#08021a"
+foreground = "#cdd6f4"
+
+[scrolling]
+history = 10000
+
+[cursor]
+style = "Block"

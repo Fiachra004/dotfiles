@@ -1,0 +1,15 @@
+autologin.username="fiachra001"
+autologin.saved_credentials="{\"fiachra001\":[\"fiachra001\",\"bZSngOC41BdwhDpi/0lRFEwHm7yZz1SWyGtwjnsDcdsFs4nbRkWHo78Xc0z01RxW0LcLhz+Fqm/fsrARAbOUjIeW26AhFjvo91/YEZUxUq0PhNxpS28dnGgm1txp8rQqWxuvpns9gABx0bD8fO/merz9QbMKhHzqqqOo4S8tPtKWg0IVKPgCvS2UajGHakZlszHMfvVgC/Nb59dSPW40XC7GLulVqndyqZcC59lQBn9DsGDDIRXj+4MNBjfNJIhL\"]}"
+autologin.canonical_username="fiachra001"
+app.window.state.saved=true
+app.window.position.width=1908
+app.rollback-to-sc=true
+autologin.blob="bZSngOC41BdwhDpi/0lRFEwHm7yZz1SWyGtwjnsDcdsFs4nbRkWHo78Xc0z01RxW0LcLhz+Fqm/fsrARAbOUjIeW26AhFjvo91/YEZUxUq0PhNxpS28dnGgm1txp8rQqWxuvpns9gABx0bD8fO/merz9QbMKhHzqqqOo4S8tPtKWg0IVKPgCvS2UajGHakZlszHMfvVgC/Nb59dSPW40XC7GLulVqndyqZcC59lQBn9DsGDDIRXj+4MNBjfNJIhL"
+es.send-on-startup=true
+core.clock_delta=1
+app.window.position.saved=true
+app.window.position.height=1017
+app.window.position.y=57
+storage.last-location="/home/fiachra/.cache/spotify/Storage"
+app.window.position.x=6
+app.last-launched-version="1.2.63.394.g126b0d89"
